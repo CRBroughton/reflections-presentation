@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.15",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@vueuse/shared": "^6.9.1"
+  },
+  "name": "slidev",
+  "devDependencies": {
+    "@iconify-json/twemoji": "^1.0.2",
+    "@iconify-json/uim": "^1.0.2",
+    "sass": "^1.43.4"
+  }
+}
