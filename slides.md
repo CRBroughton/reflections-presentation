@@ -63,15 +63,17 @@ h6 {
 
 ---
 
-# An Example
+# August Reflections 
 
-<div class="flex gap-2 w-1/2 h-11/12">
-  <img
+<div class="flex justify-center w-1/2">
+  <div class="flex gap-2">
+    <img
     src="/screenshot1.png"
   />
   <img
     src="/screenshot2.png"
   />
+  </div>
 </div>
 
 
