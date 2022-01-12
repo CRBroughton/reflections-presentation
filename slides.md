@@ -93,9 +93,10 @@ h6 {
 ---
 preload: false
 ---
+
 # August Reflections 
 
-<div class="flex justify-center w-1/2 h-full pb-1">
+<div class="flex justify-center w-1/2 h-full pb-8">
   <div class="flex gap-2">
     <img
     src="/screenshot1.png"
